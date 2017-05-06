@@ -1,0 +1,2 @@
+1.  chmod 400 myvpnserver.pem
+2.  ssh -i myvpnserver.pem ubuntu@54.193.XXX.XXX
